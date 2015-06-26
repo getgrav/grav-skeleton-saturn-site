@@ -1,0 +1,13 @@
+name: Saturn Site
+version: 1.0.0
+description: "Saturn – Free Grav Theme, is a beautiful cosmic website template. Customize it easily and add your own creative touch. Designed by Afnizar Nur Ghifari."
+icon: group
+author:
+  name: Team Grav
+  email: devs@getgrav.org
+  url: http://getgrav.org
+homepage: https://github.com/getgrav/grav-skeleton-saturn-site
+demo: http://demo.getgrav.org/saturn-skeleton
+keywords: saturn, skeleton, blog, responsive, html5, css3, blog
+bugs: https://github.com/getgrav/grav-skeleton-saturn-site/issues
+license: MIT
