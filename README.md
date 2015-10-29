@@ -38,5 +38,7 @@ To install  **just** the theme:
 $ bin/gpm install saturn
 ```
 
-
-
+# Credits
+* Header Image: [Oliver Wendel](https://unsplash.com/c_ow)
+* Post Image: [warszawianka](http://www.freestockphotos.biz/stockphoto/15150) - Public Domain
+* [Unsplash](https://unsplash.com/)
