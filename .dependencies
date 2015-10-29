@@ -10,19 +10,23 @@ git:
     feed:
         url: https://github.com/getgrav/grav-plugin-feed
         path: user/plugins/feed
-        branch: develop  
+        branch: develop
     pagination:
         url: https://github.com/getgrav/grav-plugin-pagination
         path: user/plugins/pagination
-        branch: develop    
-    simple_form:
-        url: https://github.com/nunopress/grav-plugin-simple_form
-        path: user/plugins/simple_form
         branch: develop
     taxonomylist:
         url: https://github.com/getgrav/grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
         branch: develop
+    email:
+        url: https://github.com/getgrav/grav-plugin-email
+        path: user/plugins/email
+        branch: master
+    form:
+        url: https://github.com/getgrav/grav-plugin-form
+        path: user/plugins/form
+        branch: master
     saturn:
         url: https://github.com/getgrav/grav-theme-saturn
         path: user/themes/saturn
@@ -39,14 +43,18 @@ links:
     feed:
         src: grav-plugin-feed
         path: user/plugins/feed
-        scm: github 
+        scm: github
     pagination:
         src: grav-plugin-pagination
         path: user/plugins/pagination
-        scm: github    
-    simple_form:
-        src: grav-plugin-simple_form
-        path: user/plugins/simple_form
+        scm: github
+    email:
+        src: grav-plugin-email
+        path: user/plugins/email
+        scm: github
+    form:
+        src: grav-plugin-form
+        path: user/plugins/form
         scm: github
     taxonomylist:
         src: grav-plugin-taxonomylist
